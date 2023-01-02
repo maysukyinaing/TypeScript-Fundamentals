@@ -1,0 +1,3 @@
+
+
+const courseName = "TypeScript Bootcamp";
