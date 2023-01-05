@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ESNext"
+    },
+    "include": [
+        "**/*.ts"
+    ],
+    "exclude": [
+        "src/modules-reexports/*.ts"
+    ]
+}
